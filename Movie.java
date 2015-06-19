@@ -1,6 +1,11 @@
 import java.io.*;
 import sun.audio.*;
 
+/*import java.io.File;
+
+import javax.sound.sampled.AudioInputStream;
+import javax.sound.sampled.AudioSystem;*/
+
 public class Movie{                                // character sprites 42 x 21 in
 
 	public static void main(String[] args)  throws Exception {
@@ -251,7 +256,6 @@ public class Movie{                                // character sprites 42 x 21 
 		movie.frameFinished();
 	}
 		System.out.println("Guide: Each section the game allows its own commands.");
-		System.out.println();
 
 		for(int wait = 0; wait < 10; wait++){
 		movie.frameFinished();
@@ -589,12 +593,12 @@ public class Movie{                                // character sprites 42 x 21 
 		for(int wait = 0; wait < 15; wait++){
 		movie.frameFinished();
 	}
-		System.out.println("Guide: You recovered your rice krispies from than evil knight.");
+		System.out.println("Guide: You recovered your rice krispies from that evil knight.");
 
 		for(int wait = 0; wait < 15; wait++){
 		movie.frameFinished();
 	}
-		System.out.println("Guide: The world is a better place now thanks to you 0_0 "); //(ʘ‿ʘ)
+		System.out.println("Guide: The world is a better place now thanks to you :D"); //(ʘ‿ʘ)
 
 		for(int wait = 0; wait < 15; wait++){
 		movie.frameFinished();

@@ -1,6 +1,9 @@
 Name of Game: Knight McKrispie
 
-I originally made this because we had to create a game for my Comp Sci class. Now that that's done with, I will keep working on it as a side project. 
+LONG README PLEASE READ BEFORE DOING ANYTHING!!! 
+***HERE I'M ASSUMING THAT YOU KNOW HOW TO SAVE AND COMPILE IN JAVA SINCE THIS IS WRITTEN IN JAVA***
+
+I originally made this because we had to create a game for my Comp Sci class. Now that that's done with, I will keep working on it as a side project. Furthermore, game will not run unless lines 16, 29 and 41 are changed to the location of the folder. So, it would be "/XX/XX/Java Project Game/Zelda_Main_Theme_Song.wav". Same goes for the other lines mentioned above. I would just be easier to save the folder to the Desktop and just change the name after "Users/". Then save and compile. 
 
 : I have a windows PC but it should work on MAC also. To run  just compile it like any other java program -javac Movie.java- and run it the same way -java Movie- . Must be compiled in the same folder that all the resources are located in. Easy way to open command Prompt  on a PC in the same folder, SHIFT + right click + "open command window here".
 
