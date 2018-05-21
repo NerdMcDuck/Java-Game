@@ -2,9 +2,9 @@ Name of Game: Knight McKrispie
 
 LONG README PLEASE READ BEFORE DOING ANYTHING!!! 
 
-I originally made this because we had to create a game for my Comp Sci class. Now that that's done with, I will keep working on it as a side project. 
+I originally made this because we had to create a game for my Comp Sci class. Now that that's done with, I may keep working on it as a side project. 
 
-:No outside packages requirements. Just the IO, Animation, and Sprite java files given to us by the proffessor. Those are included in the folder. 
+:No outside packages requirements. Just the IO, Animation, and Sprite java files given to us by the professor. Those are included in the folder. 
 
 : The game is a mix of cinematic and interactivity. The interactivity is very limited. All prompts and game events will show up on the console (command prompt). You interact with the game by typing where you want the player to move, "right", "left", "up", "down". The command prompt will tell you which commands are valid depending on where you are in the game. 
 
